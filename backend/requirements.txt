@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+openai==1.2.0
+tiktoken==0.5.1
+pymupdf==1.23.5
+docx2txt==0.8
+numpy==1.26.1
+pydantic==2.4.2
