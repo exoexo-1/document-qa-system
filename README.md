@@ -119,21 +119,8 @@ This project implements a full-stack application:
 
 ## System Architecture
 
-   ```
-document-qa-system/
-├── frontend/               # React frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── App.js          # Main application component
-│   │   ├── App.css         # Styling for the application
-│   │   └── services/api.js # API service for backend communication
-│   ├── package.json
-│   └── README.md
-└── backend/                # FastAPI backend
-    ├── app.py              # Main API application
-    └── requirements.txt    # Python dependencies
+![image](https://github.com/user-attachments/assets/cf7e421f-05e0-4f38-87e7-9d8b1be50fe1)
 
-   ```
 The system follows these steps:
 1. User uploads a document
 2. Backend processes document (text extraction, chunking)
